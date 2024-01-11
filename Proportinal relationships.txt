@@ -22,4 +22,19 @@ Amount of money a store adds to an item to cover costs or make more money.
 Discount (who doesnt know discounts????????????????????????)
 A decrease in price
 
+Percent increase and decrease
+-------------------------------------
+Step 1:Find the difference (subtraction)
+Step 2:Divide by that by the original amount (write as a fraction)
+Step 3:Change to percent (Multiply by 100)
 
+Example: the regular price is 32 dollars,during a sale it is reduced to 24 dollars.What is the % decrese?
+32-24=8
+8 divided by 32 (or 1/4)
+1/4 = 25%
+Don model train $64,sold it for $72
+12.5%
+
+
+Tax
+---------
