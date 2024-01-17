@@ -1,0 +1,4 @@
+Percent error
+1>Find the difference
+2>Divide that by the actual amount.
+3> Change to percent (x100)
