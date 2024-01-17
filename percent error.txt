@@ -2,3 +2,10 @@ Percent error
 1>Find the difference
 2>Divide that by the actual amount.
 3> Change to percent (x100)
+
+Example:
+A crowd is estimated to be 3000 people
+The exact attendance is 2,486 people
+Sept one,find the difference
+3000-2486=514 
+514 divided by 2486 = 0.206757844x100 21%
